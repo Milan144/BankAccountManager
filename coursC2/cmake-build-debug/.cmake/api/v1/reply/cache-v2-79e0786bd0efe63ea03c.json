@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/milan/CLionProjects/coursC2/cmake-build-debug"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/coursC2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/milan/CLionProjects/coursC2"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/coursC2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -991,7 +991,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/milan/CLionProjects/coursC2/cmake-build-debug"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/coursC2/cmake-build-debug"
 		},
 		{
 			"name" : "coursC2_IS_TOP_LEVEL",
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/milan/CLionProjects/coursC2"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/coursC2"
 		}
 	],
 	"kind" : "cache",

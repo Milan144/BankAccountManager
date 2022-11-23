@@ -1,4 +1,4 @@
-# Install script for directory: /Users/milan/CLionProjects/coursC2
+# Install script for directory: /Users/milan/Documents/Documents - λ/Workspace/C/coursC2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/milan/CLionProjects/coursC2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/milan/Documents/Documents - λ/Workspace/C/coursC2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
