@@ -1,0 +1,3 @@
+/Users/milan/CLionProjects/coursC2/cmake-build-debug/CMakeFiles/coursC2.dir
+/Users/milan/CLionProjects/coursC2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/milan/CLionProjects/coursC2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
