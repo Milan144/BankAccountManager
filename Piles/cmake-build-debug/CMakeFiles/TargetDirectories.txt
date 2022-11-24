@@ -1,3 +1,3 @@
-/Users/milan/Documents/Documents - λ/Workspace/C/Piles/cmake-build-debug/CMakeFiles/Piles.dir
-/Users/milan/Documents/Documents - λ/Workspace/C/Piles/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/milan/Documents/Documents - λ/Workspace/C/Piles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/milan/Documents/Documents - λ/Workspace/C/piles/cmake-build-debug/CMakeFiles/piles.dir
+/Users/milan/Documents/Documents - λ/Workspace/C/piles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/milan/Documents/Documents - λ/Workspace/C/piles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

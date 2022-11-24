@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/Piles/cmake-build-debug"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/files/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/Piles"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/files"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -699,7 +699,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Piles"
+			"value" : "files"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -982,7 +982,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Piles_BINARY_DIR",
+			"name" : "files_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -991,10 +991,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/Piles/cmake-build-debug"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/files/cmake-build-debug"
 		},
 		{
-			"name" : "Piles_IS_TOP_LEVEL",
+			"name" : "files_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1006,7 +1006,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Piles_SOURCE_DIR",
+			"name" : "files_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/Piles"
+			"value" : "/Users/milan/Documents/Documents - \u03bb/Workspace/C/files"
 		}
 	],
 	"kind" : "cache",

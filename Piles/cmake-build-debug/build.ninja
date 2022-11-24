@@ -8,7 +8,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: Piles
+# Project: piles
 # Configurations: Debug
 # =============================================================================
 
@@ -36,47 +36,57 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/milan/Documents/Documents$ -$ λ/Workspace/C/Piles/cmake-build-debug/
+cmake_ninja_workdir = /Users/milan/Documents/Documents$ -$ λ/Workspace/C/piles/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Piles
+# Object build statements for EXECUTABLE target piles
 
 
 #############################################
-# Order-only phony target for Piles
+# Order-only phony target for piles
 
-build cmake_object_order_depends_target_Piles: phony || CMakeFiles/Piles.dir
+build cmake_object_order_depends_target_piles: phony || CMakeFiles/piles.dir
 
-build CMakeFiles/Piles.dir/main.c.o: C_COMPILER__Piles_Debug /Users/milan/Documents/Documents$ -$ λ/Workspace/C/Piles/main.c || cmake_object_order_depends_target_Piles
-  DEP_FILE = CMakeFiles/Piles.dir/main.c.o.d
-  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
-  OBJECT_DIR = CMakeFiles/Piles.dir
-  OBJECT_FILE_DIR = CMakeFiles/Piles.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Piles.dir/
-  TARGET_PDB = Piles.pdb
+build CMakeFiles/piles.dir/main.c.o: C_COMPILER__piles_Debug /Users/milan/Documents/Documents$ -$ λ/Workspace/C/piles/main.c || cmake_object_order_depends_target_piles
+  DEP_FILE = CMakeFiles/piles.dir/main.c.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11
+  INCLUDES = -I"/Users/milan/Documents/Documents - λ/Workspace/C/piles/."
+  OBJECT_DIR = CMakeFiles/piles.dir
+  OBJECT_FILE_DIR = CMakeFiles/piles.dir
+  TARGET_COMPILE_PDB = CMakeFiles/piles.dir/
+  TARGET_PDB = piles.pdb
+
+build CMakeFiles/piles.dir/pile.c.o: C_COMPILER__piles_Debug /Users/milan/Documents/Documents$ -$ λ/Workspace/C/piles/pile.c || cmake_object_order_depends_target_piles
+  DEP_FILE = CMakeFiles/piles.dir/pile.c.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11
+  INCLUDES = -I"/Users/milan/Documents/Documents - λ/Workspace/C/piles/."
+  OBJECT_DIR = CMakeFiles/piles.dir
+  OBJECT_FILE_DIR = CMakeFiles/piles.dir
+  TARGET_COMPILE_PDB = CMakeFiles/piles.dir/
+  TARGET_PDB = piles.pdb
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Piles
+# Link build statements for EXECUTABLE target piles
 
 
 #############################################
-# Link the executable Piles
+# Link the executable piles
 
-build Piles: C_EXECUTABLE_LINKER__Piles_Debug CMakeFiles/Piles.dir/main.c.o
+build piles: C_EXECUTABLE_LINKER__piles_Debug CMakeFiles/piles.dir/main.c.o CMakeFiles/piles.dir/pile.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  OBJECT_DIR = CMakeFiles/Piles.dir
+  OBJECT_DIR = CMakeFiles/piles.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/Piles.dir/
-  TARGET_FILE = Piles
-  TARGET_PDB = Piles.pdb
+  TARGET_COMPILE_PDB = CMakeFiles/piles.dir/
+  TARGET_FILE = piles
+  TARGET_PDB = piles.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/milan/Documents/Documents - λ/Workspace/C/Piles/cmake-build-debug" && "/Users/milan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/milan/Documents/Documents - λ/Workspace/C/piles/cmake-build-debug" && "/Users/milan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -87,7 +97,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/milan/Documents/Documents - λ/Workspace/C/Piles/cmake-build-debug" && "/Users/milan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S"/Users/milan/Documents/Documents - λ/Workspace/C/Piles" -B"/Users/milan/Documents/Documents - λ/Workspace/C/Piles/cmake-build-debug"
+  COMMAND = cd "/Users/milan/Documents/Documents - λ/Workspace/C/piles/cmake-build-debug" && "/Users/milan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S"/Users/milan/Documents/Documents - λ/Workspace/C/piles" -B"/Users/milan/Documents/Documents - λ/Workspace/C/piles/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -103,9 +113,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/milan/Documents/Documents - λ/Workspace/C/Piles/cmake-build-debug
+# Folder: /Users/milan/Documents/Documents - λ/Workspace/C/piles/cmake-build-debug
 
-build all: phony Piles
+build all: phony piles
 
 # =============================================================================
 # Built-in targets
