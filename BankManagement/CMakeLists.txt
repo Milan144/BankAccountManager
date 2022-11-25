@@ -3,4 +3,4 @@ project(BankManagement C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(BankManagement main.c)
+add_executable(BankManagement main.c main.h)
