@@ -1,0 +1,3 @@
+/Users/milan/Documents/Documents - λ/Workspace/C/BankManagement/cmake-build-debug/CMakeFiles/BankManagement.dir
+/Users/milan/Documents/Documents - λ/Workspace/C/BankManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/milan/Documents/Documents - λ/Workspace/C/BankManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
